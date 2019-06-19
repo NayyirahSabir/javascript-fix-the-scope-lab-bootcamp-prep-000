@@ -1,7 +1,7 @@
 var animal = 'dog'
 
 function myAnimal() {
-  var = 'dog'
+  var animal = 'dog'
   return animal
 }
 
